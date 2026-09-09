@@ -2,35 +2,35 @@ about:
   description: "An implementation of the QUIC transport protocol."
   license: MIT
   homepage: 
-  head: c06831b
+  head: 000cc0a
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:55:21Z
+  collectedAt: 2026-09-09T20:16:19Z
 timeline:
   created: 2018-04-09
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 1658
+  star: 1659
   watcher: 71
-  fork: 291
+  fork: 292
   release: 0
   contributor: 264
   pullRequest: 277
   issue: 190
 language:
-  C++: 7887606
+  C++: 7890977
   Python: 456853
   CMake: 238062
   Starlark: 194262
   Shell: 15392
   C: 7092
   Jinja: 4921
-totalBytes: 8804188
+totalBytes: 8807559
 recent:
   last30d:
     since: 2026-08-10
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 52
+    commit: 54
   last60d:
     since: 2026-07-11
     release: 0
@@ -47,7 +47,7 @@ recent:
     openPR: 4
     closedIssue: 1
     openIssue: 0
-    commit: 71
+    commit: 73
   last90d:
     since: 2026-06-11
     release: 0
@@ -55,7 +55,7 @@ recent:
     openPR: 5
     closedIssue: 1
     openIssue: 0
-    commit: 95
+    commit: 97
   last180d:
     since: 2026-03-13
     release: 0
@@ -63,7 +63,7 @@ recent:
     openPR: 11
     closedIssue: 5
     openIssue: 0
-    commit: 318
+    commit: 320
   last360d:
     since: 2025-09-14
     release: 0
@@ -71,7 +71,7 @@ recent:
     openPR: 11
     closedIssue: 11
     openIssue: 2
-    commit: 520
+    commit: 522
   last720d:
     since: 2024-09-19
     release: 0
@@ -79,25 +79,25 @@ recent:
     openPR: 11
     closedIssue: 27
     openIssue: 8
-    commit: 2265
+    commit: 2268
 total:
   release: 0
   mergedPR: 14
   openPR: 11
   closedIssue: 165
   openIssue: 25
-  commit: 10105
+  commit: 10108
 ---
 path: /home/runner/.x-repo/github.com/facebook/mvfst
-collectedAt: 2026-09-09T05:55:31Z
+collectedAt: 2026-09-09T20:16:27Z
 loc:
   Cpp:
-    code: 145088
+    code: 145168
     comments: 13053
-    blanks: 19783
+    blanks: 19794
     files: 286
   CHeader:
-    code: 30041
+    code: 30043
     comments: 9963
     blanks: 7834
     files: 258
@@ -152,9 +152,9 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 194800
+  code: 194882
   comments: 26294
-  blanks: 31001
+  blanks: 31012
   files: 701
 ---
 
