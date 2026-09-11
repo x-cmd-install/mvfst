@@ -35,7 +35,7 @@ Total: **194,967** lines of code across **679** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 11 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10113
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 11 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10114
 
 ## Recent activity
 
@@ -46,7 +46,7 @@ Total: **194,967** lines of code across **679** files in the top 5 languages.
 | 90d | 2026-06-13 | 0 | 1 | 4 | 1 | 0 | 99 |
 | last180d | 2026-03-15 | 0 | 1 | 11 | 5 | 0 | 322 |
 | 360d | 2025-09-16 | 0 | 1 | 11 | 11 | 2 | 524 |
-| last720d | 2024-09-21 | 0 | 9 | 11 | 27 | 8 | 2265 |
+| last720d | 2024-09-21 | 0 | 9 | 11 | 27 | 8 | 2266 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:55:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:55:50Z._
