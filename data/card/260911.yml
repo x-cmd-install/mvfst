@@ -2,12 +2,12 @@ about:
   description: "An implementation of the QUIC transport protocol."
   license: MIT
   homepage: 
-  head: 4639699
+  head: 3fc4548
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:54:50Z
+  collectedAt: 2026-09-11T18:55:09Z
 timeline:
   created: 2018-04-09
   lastCommit: 2026-09-11
@@ -79,17 +79,17 @@ recent:
     openPR: 11
     closedIssue: 27
     openIssue: 8
-    commit: 2265
+    commit: 2266
 total:
   release: 0
   mergedPR: 14
   openPR: 11
   closedIssue: 165
   openIssue: 25
-  commit: 10113
+  commit: 10114
 ---
 path: /home/runner/.x-repo/github.com/facebook/mvfst
-collectedAt: 2026-09-11T05:54:56Z
+collectedAt: 2026-09-11T18:55:21Z
 loc:
   Cpp:
     code: 145256
