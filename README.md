@@ -31,31 +31,22 @@ Total: **194,967** lines of code across **679** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,659 · **Forks**: 292 · **Open issues**: 190 · **Contributors**: 264
+- **Stars**: 1,659 · **Forks**: 293 · **Open issues**: 190 · **Contributors**: 264
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 11 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10115
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 0 | 1 | 0 | 45 |
-| last60d | 2026-07-15 | 0 | 1 | 3 | 1 | 0 | 70 |
-| 90d | 2026-06-15 | 0 | 1 | 4 | 1 | 0 | 91 |
-| last180d | 2026-03-17 | 0 | 1 | 11 | 4 | 0 | 303 |
-| 360d | 2025-09-18 | 0 | 1 | 11 | 11 | 2 | 517 |
-| last720d | 2024-09-23 | 0 | 9 | 11 | 27 | 8 | 2264 |
-
-## Distribution status
-
-Reported by **38** distros on [repology.org](https://repology.org/project/mvfst). **3** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2026.07.27.00` | ✅ latest |
-| Nix unstable | `2026.07.27.00` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 1 | 1 | 0 | 0 | 45 |
+| last60d | 2026-07-16 | 0 | 1 | 4 | 1 | 0 | 70 |
+| 90d | 2026-06-16 | 0 | 1 | 5 | 1 | 0 | 91 |
+| last180d | 2026-03-18 | 0 | 1 | 12 | 4 | 0 | 303 |
+| 360d | 2025-09-19 | 0 | 1 | 12 | 11 | 2 | 517 |
+| last720d | 2024-09-24 | 0 | 8 | 12 | 27 | 8 | 2262 |
 
 ## Improve this data
 
@@ -66,4 +57,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:16:28Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:16:30Z._
