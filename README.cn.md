@@ -4,7 +4,7 @@
 
 An implementation of the QUIC transport protocol.
 
-![mvfst](https://repo.x-cmd.io/mvfst.svg?lang=zh)
+[![x-cmd/install — mvfst Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mvfst.svg?lang=zh)](https://x-cmd.com/install/mvfst)
 
 ## 安装
 
@@ -31,22 +31,22 @@ x install mvfst
 
 ## 流行度
 
-- **Star**: 1,660 · **Fork**: 293 · **开放 issue**: 190 · **贡献者**: 265
+- **Star**: 1,660 · **Fork**: 294 · **开放 issue**: 190 · **贡献者**: 265
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 14 · **开放 PR**: 12 · **已关闭 issue**: 165 · **开放 issue**: 25 · **提交数**: 10148
+- **发布数**: 0 · **已合并 PR**: 14 · **开放 PR**: 12 · **已关闭 issue**: 165 · **开放 issue**: 25 · **提交数**: 10152
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 1 | 0 | 0 | 73 |
-| last60d | 2026-07-20 | 0 | 1 | 1 | 1 | 0 | 98 |
-| 90d | 2026-06-20 | 0 | 1 | 5 | 1 | 0 | 119 |
-| last180d | 2026-03-22 | 0 | 1 | 12 | 4 | 0 | 331 |
-| 360d | 2025-09-23 | 0 | 1 | 12 | 11 | 2 | 545 |
-| last720d | 2024-09-28 | 0 | 8 | 12 | 27 | 8 | 2273 |
+| 30d | 2026-08-21 | 0 | 1 | 1 | 0 | 0 | 50 |
+| last60d | 2026-07-22 | 0 | 1 | 1 | 1 | 0 | 97 |
+| 90d | 2026-06-22 | 0 | 1 | 5 | 1 | 0 | 115 |
+| last180d | 2026-03-24 | 0 | 1 | 12 | 4 | 0 | 329 |
+| 360d | 2025-09-25 | 0 | 1 | 12 | 11 | 2 | 542 |
+| last720d | 2024-09-30 | 0 | 8 | 12 | 27 | 8 | 2274 |
 
 ## 改进这些数据
 
@@ -57,4 +57,4 @@ mvfst 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:10:11Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:04:33Z._
