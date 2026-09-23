@@ -4,7 +4,7 @@
 
 An implementation of the QUIC transport protocol.
 
-[![x-cmd/install — mvfst Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mvfst.svg?lang=zh)](https://x-cmd.com/install/mvfst)
+[![x-cmd/install — mvfst Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mvfst.svg?lang=zh)](https://x-cmd.com/install/mvfst)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install mvfst
 
 ## 代码洞察
 
-合计: **196,965** 行代码（覆盖前 5 种语言、共 **686** 个文件）。
+合计: **197,037** 行代码（覆盖前 5 种语言、共 **686** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 146,701 | 13,070 | 20,032 | 287 |
+| Cpp | 146,773 | 13,073 | 20,050 | 287 |
 | CHeader | 30,076 | 9,965 | 7,843 | 258 |
 | Python | 10,697 | 1,129 | 1,754 | 39 |
 | CMake | 5,417 | 1,540 | 793 | 101 |
@@ -31,22 +31,22 @@ x install mvfst
 
 ## 流行度
 
-- **Star**: 1,661 · **Fork**: 294 · **开放 issue**: 190 · **贡献者**: 265
+- **Star**: 1,662 · **Fork**: 294 · **开放 issue**: 190 · **贡献者**: 265
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 14 · **开放 PR**: 12 · **已关闭 issue**: 165 · **开放 issue**: 25 · **提交数**: 10158
+- **发布数**: 0 · **已合并 PR**: 14 · **开放 PR**: 12 · **已关闭 issue**: 165 · **开放 issue**: 25 · **提交数**: 10165
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 54 |
-| last60d | 2026-07-24 | 0 | 1 | 1 | 1 | 0 | 101 |
-| 90d | 2026-06-24 | 0 | 1 | 5 | 1 | 0 | 119 |
-| last180d | 2026-03-26 | 0 | 1 | 12 | 4 | 0 | 333 |
-| 360d | 2025-09-27 | 0 | 1 | 12 | 11 | 2 | 546 |
-| last720d | 2024-10-02 | 0 | 8 | 12 | 27 | 8 | 2269 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 58 |
+| last60d | 2026-07-25 | 0 | 1 | 1 | 1 | 0 | 105 |
+| 90d | 2026-06-25 | 0 | 1 | 5 | 1 | 0 | 123 |
+| last180d | 2026-03-27 | 0 | 1 | 12 | 4 | 0 | 337 |
+| 360d | 2025-09-28 | 0 | 1 | 12 | 11 | 2 | 550 |
+| last720d | 2024-10-03 | 0 | 8 | 12 | 27 | 8 | 2271 |
 
 ## 改进这些数据
 
@@ -57,4 +57,4 @@ mvfst 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:14:54Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:23:48Z._

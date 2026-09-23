@@ -4,7 +4,7 @@
 
 An implementation of the QUIC transport protocol.
 
-[![x-cmd/install — mvfst Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mvfst.svg)](https://x-cmd.com/install/mvfst)
+[![x-cmd/install — mvfst Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mvfst.svg)](https://x-cmd.com/install/mvfst)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install mvfst
 
 ## Code insight
 
-Total: **196,965** lines of code across **686** files in the top 5 languages.
+Total: **197,037** lines of code across **686** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 146,701 | 13,070 | 20,032 | 287 |
+| Cpp | 146,773 | 13,073 | 20,050 | 287 |
 | CHeader | 30,076 | 9,965 | 7,843 | 258 |
 | Python | 10,697 | 1,129 | 1,754 | 39 |
 | CMake | 5,417 | 1,540 | 793 | 101 |
@@ -31,22 +31,22 @@ Total: **196,965** lines of code across **686** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,661 · **Forks**: 294 · **Open issues**: 190 · **Contributors**: 265
+- **Stars**: 1,662 · **Forks**: 294 · **Open issues**: 190 · **Contributors**: 265
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10158
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 54 |
-| last60d | 2026-07-24 | 0 | 1 | 1 | 1 | 0 | 101 |
-| 90d | 2026-06-24 | 0 | 1 | 5 | 1 | 0 | 119 |
-| last180d | 2026-03-26 | 0 | 1 | 12 | 4 | 0 | 333 |
-| 360d | 2025-09-27 | 0 | 1 | 12 | 11 | 2 | 546 |
-| last720d | 2024-10-02 | 0 | 8 | 12 | 27 | 8 | 2269 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 58 |
+| last60d | 2026-07-25 | 0 | 1 | 1 | 1 | 0 | 105 |
+| 90d | 2026-06-25 | 0 | 1 | 5 | 1 | 0 | 123 |
+| last180d | 2026-03-27 | 0 | 1 | 12 | 4 | 0 | 337 |
+| 360d | 2025-09-28 | 0 | 1 | 12 | 11 | 2 | 550 |
+| last720d | 2024-10-03 | 0 | 8 | 12 | 27 | 8 | 2271 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:14:53Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:23:48Z._
