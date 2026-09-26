@@ -14,14 +14,14 @@ x install mvfst
 
 ## Code insight
 
-Total: **197,016** lines of code across **686** files in the top 5 languages.
+Total: **198,283** lines of code across **686** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 146,754 | 13,081 | 20,056 | 287 |
-| CHeader | 30,075 | 9,965 | 7,843 | 258 |
+| Cpp | 148,016 | 13,073 | 20,167 | 287 |
+| CHeader | 30,078 | 9,968 | 7,843 | 258 |
 | Python | 10,697 | 1,129 | 1,754 | 39 |
-| CMake | 5,416 | 1,540 | 793 | 101 |
+| CMake | 5,418 | 1,540 | 793 | 101 |
 | CppHeader | 2,818 | 223 | 620 | 1 |
 
 ## Source
@@ -35,18 +35,18 @@ Total: **197,016** lines of code across **686** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10171
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10185
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 1 | 1 | 0 | 0 | 61 |
-| last60d | 2026-07-27 | 0 | 1 | 1 | 1 | 0 | 108 |
-| 90d | 2026-06-27 | 0 | 1 | 5 | 1 | 0 | 126 |
-| last180d | 2026-03-29 | 0 | 1 | 12 | 4 | 0 | 340 |
-| 360d | 2025-09-30 | 0 | 1 | 12 | 11 | 2 | 553 |
-| last720d | 2024-10-05 | 0 | 8 | 12 | 27 | 8 | 2270 |
+| 30d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 72 |
+| last60d | 2026-07-28 | 0 | 1 | 1 | 1 | 0 | 119 |
+| 90d | 2026-06-28 | 0 | 1 | 5 | 1 | 0 | 137 |
+| last180d | 2026-03-30 | 0 | 1 | 12 | 4 | 0 | 351 |
+| 360d | 2025-10-01 | 0 | 1 | 12 | 11 | 2 | 564 |
+| last720d | 2024-10-06 | 0 | 8 | 12 | 27 | 8 | 2282 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:05:26Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:49:54Z._
