@@ -31,22 +31,22 @@ Total: **199,895** lines of code across **687** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,665 · **Forks**: 297 · **Open issues**: 190 · **Contributors**: 266
+- **Stars**: 1,665 · **Forks**: 298 · **Open issues**: 190 · **Contributors**: 266
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10227
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 25 · **Commits**: 10229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 0 | 42 |
-| last60d | 2026-08-12 | 0 | 1 | 1 | 1 | 0 | 117 |
-| 90d | 2026-07-13 | 0 | 1 | 5 | 1 | 0 | 142 |
-| last180d | 2026-04-14 | 0 | 1 | 12 | 4 | 0 | 313 |
-| 360d | 2025-10-16 | 0 | 1 | 12 | 11 | 1 | 568 |
-| last720d | 2024-10-21 | 0 | 8 | 12 | 26 | 6 | 2270 |
+| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 0 | 42 |
+| last60d | 2026-08-13 | 0 | 1 | 1 | 1 | 0 | 117 |
+| 90d | 2026-07-14 | 0 | 1 | 4 | 1 | 0 | 142 |
+| last180d | 2026-04-15 | 0 | 1 | 12 | 4 | 0 | 313 |
+| 360d | 2025-10-17 | 0 | 1 | 12 | 11 | 1 | 568 |
+| last720d | 2024-10-22 | 0 | 8 | 12 | 26 | 6 | 2269 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:38:12Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:09:16Z._
