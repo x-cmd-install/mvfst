@@ -14,11 +14,11 @@ x install mvfst
 
 ## Code insight
 
-Total: **201,183** lines of code across **687** files in the top 5 languages.
+Total: **201,318** lines of code across **687** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 150,503 | 13,106 | 20,433 | 287 |
+| Cpp | 150,638 | 13,106 | 20,454 | 287 |
 | CHeader | 30,124 | 9,989 | 7,856 | 258 |
 | Python | 10,987 | 1,134 | 1,790 | 39 |
 | CMake | 5,495 | 1,557 | 801 | 102 |
@@ -35,18 +35,18 @@ Total: **201,183** lines of code across **687** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 165 · **Open issues**: 26 · **Commits**: 10254
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 14 · **Closed issues**: 165 · **Open issues**: 26 · **Commits**: 10257
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 1 | 40 |
-| last60d | 2026-08-21 | 0 | 1 | 1 | 0 | 1 | 106 |
-| 90d | 2026-07-22 | 0 | 1 | 1 | 1 | 1 | 149 |
-| last180d | 2026-04-23 | 0 | 1 | 12 | 3 | 1 | 314 |
-| 360d | 2025-10-25 | 0 | 1 | 12 | 11 | 2 | 566 |
-| last720d | 2024-10-30 | 0 | 7 | 12 | 25 | 6 | 2255 |
+| 30d | 2026-09-21 | 0 | 0 | 2 | 0 | 1 | 41 |
+| last60d | 2026-08-22 | 0 | 1 | 3 | 0 | 1 | 107 |
+| 90d | 2026-07-23 | 0 | 1 | 3 | 1 | 1 | 150 |
+| last180d | 2026-04-24 | 0 | 1 | 14 | 3 | 1 | 315 |
+| 360d | 2025-10-26 | 0 | 1 | 14 | 11 | 2 | 567 |
+| last720d | 2024-10-31 | 0 | 7 | 14 | 25 | 6 | 2255 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:48:40Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:42:57Z._
