@@ -1,3 +1,17 @@
+- repo: nix_stable_25_11
+  srcname: mvfst
+  visiblename: mvfst
+  version: 2025.10.13.00
+  origversion: null
+  status: outdated
+  summary: Implementation of the QUIC transport protocol
+  maintainers:
+    - code@humanleg.org.uk
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+    - lf-@github
+  licenses:
+    - MIT
 - repo: aosc
   srcname: runtime-network/mvfst
   binname: mvfst
@@ -170,7 +184,7 @@
 - repo: homebrew
   srcname: mvfst
   visiblename: mvfst
-  version: 2026.10.19.00
+  version: 2026.10.26.00
   origversion: null
   status: newest
   summary: QUIC transport protocol implementation
@@ -300,20 +314,6 @@
     - code@humanleg.org.uk
     - nixpkgs@emily.moe
     - techknowlogick@gitea.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: mvfst
-  visiblename: mvfst
-  version: 2025.10.13.00
-  origversion: null
-  status: outdated
-  summary: Implementation of the QUIC transport protocol
-  maintainers:
-    - code@humanleg.org.uk
-    - nixpkgs@emily.moe
-    - techknowlogick@gitea.com
-    - lf-@github
   licenses:
     - MIT
 - repo: nix_stable_26_05
