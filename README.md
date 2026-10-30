@@ -14,14 +14,14 @@ x install mvfst
 
 ## Code insight
 
-Total: **208,627** lines of code across **696** files in the top 5 languages.
+Total: **208,702** lines of code across **696** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 157,135 | 13,460 | 21,140 | 292 |
+| Cpp | 157,207 | 13,467 | 21,153 | 292 |
 | CHeader | 30,581 | 9,966 | 7,950 | 262 |
 | Python | 11,035 | 1,143 | 1,794 | 39 |
-| CMake | 5,799 | 1,657 | 815 | 102 |
+| CMake | 5,802 | 1,658 | 816 | 102 |
 | CppHeader | 2,818 | 223 | 620 | 1 |
 
 ## Source
@@ -35,18 +35,18 @@ Total: **208,627** lines of code across **696** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 16 · **Open PRs**: 14 · **Closed issues**: 165 · **Open issues**: 26 · **Commits**: 10331
+- **Releases**: 0 · **Merged PRs**: 16 · **Open PRs**: 14 · **Closed issues**: 165 · **Open issues**: 26 · **Commits**: 10337
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-09 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:57:02Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:50:55Z._
