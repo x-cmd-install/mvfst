@@ -1,15 +1,22 @@
-- repo: nix_stable_25_11
+- repo: aur
+  srcname: mvfst
+  binname: mvfst
+  visiblename: mvfst
+  version: 2025.11.24.00
+  origversion: 2025.11.24.00-1
+  status: outdated
+  summary: An implementation of the QUIC transport protocol
+  maintainers:
+    - envolution@aur
+  licenses:
+    - MIT
+- repo: xrepo
   srcname: mvfst
   visiblename: mvfst
-  version: 2025.10.13.00
+  version: 2024.03.11
   origversion: null
-  status: outdated
-  summary: Implementation of the QUIC transport protocol
-  maintainers:
-    - code@humanleg.org.uk
-    - nixpkgs@emily.moe
-    - techknowlogick@gitea.com
-    - lf-@github
+  status: legacy
+  summary: An implementation of the QUIC transport protocol.
   licenses:
     - MIT
 - repo: aosc
@@ -24,18 +31,6 @@
     - fallback-mnt-aosc@repology
   categories:
     - libs
-- repo: aur
-  srcname: mvfst
-  binname: mvfst
-  visiblename: mvfst
-  version: 2025.11.24.00
-  origversion: 2025.11.24.00-1
-  status: outdated
-  summary: An implementation of the QUIC transport protocol
-  maintainers:
-    - envolution@aur
-  licenses:
-    - MIT
 - repo: aur
   srcname: mvfst-git
   binname: mvfst-git
@@ -112,6 +107,15 @@
     - MIT
   categories:
     - Unspecified
+- repo: xrepo
+  srcname: mvfst
+  visiblename: mvfst
+  version: 2024.03.18
+  origversion: null
+  status: legacy
+  summary: An implementation of the QUIC transport protocol.
+  licenses:
+    - MIT
 - repo: fedora_43
   subrepo: release
   srcname: mvfst
@@ -316,6 +320,20 @@
     - techknowlogick@gitea.com
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: mvfst
+  visiblename: mvfst
+  version: 2025.10.13.00
+  origversion: null
+  status: outdated
+  summary: Implementation of the QUIC transport protocol
+  maintainers:
+    - code@humanleg.org.uk
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+    - lf-@github
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: mvfst
   visiblename: mvfst
@@ -355,24 +373,6 @@
   srcname: mvfst
   visiblename: mvfst
   version: 2024.03.04
-  origversion: null
-  status: legacy
-  summary: An implementation of the QUIC transport protocol.
-  licenses:
-    - MIT
-- repo: xrepo
-  srcname: mvfst
-  visiblename: mvfst
-  version: 2024.03.11
-  origversion: null
-  status: legacy
-  summary: An implementation of the QUIC transport protocol.
-  licenses:
-    - MIT
-- repo: xrepo
-  srcname: mvfst
-  visiblename: mvfst
-  version: 2024.03.18
   origversion: null
   status: legacy
   summary: An implementation of the QUIC transport protocol.
