@@ -14,14 +14,14 @@ x install mvfst
 
 ## Code insight
 
-Total: **211,327** lines of code across **702** files in the top 5 languages.
+Total: **211,433** lines of code across **702** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 159,296 | 13,543 | 21,374 | 295 |
-| CHeader | 30,733 | 10,131 | 7,989 | 263 |
+| Cpp | 159,402 | 13,554 | 21,392 | 295 |
+| CHeader | 30,734 | 10,131 | 7,989 | 263 |
 | Python | 11,360 | 1,165 | 1,831 | 41 |
-| CMake | 5,897 | 1,689 | 819 | 102 |
+| CMake | 5,896 | 1,692 | 819 | 102 |
 | CppHeader | 2,818 | 223 | 620 | 1 |
 
 ## Source
@@ -31,30 +31,30 @@ Total: **211,327** lines of code across **702** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,672 · **Forks**: 297 · **Open issues**: 195 · **Contributors**: 270
+- **Stars**: 1,674 · **Forks**: 297 · **Open issues**: 195 · **Contributors**: 270
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 17 · **Open PRs**: 20 · **Closed issues**: 165 · **Open issues**: 30 · **Commits**: 10436
+- **Releases**: 0 · **Merged PRs**: 17 · **Open PRs**: 20 · **Closed issues**: 165 · **Open issues**: 30 · **Commits**: 10441
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/mvfst). **2** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/mvfst). **3** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2026.10.26.00` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2026.07.27.00` | ⚠️ outdated |
 
 ## Improve this data
@@ -66,4 +66,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:28:15Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T11:09:04Z._
