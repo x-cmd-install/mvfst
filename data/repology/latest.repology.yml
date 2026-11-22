@@ -1,22 +1,3 @@
-- repo: homebrew
-  srcname: mvfst
-  visiblename: mvfst
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: QUIC transport protocol implementation
-- repo: aosc
-  srcname: runtime-network/mvfst
-  binname: mvfst
-  visiblename: mvfst
-  version: 2026.06.22.00
-  origversion: null
-  status: outdated
-  summary: QUIC library in C++
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - libs
 - repo: aur
   srcname: mvfst
   binname: mvfst
@@ -29,6 +10,18 @@
     - envolution@aur
   licenses:
     - MIT
+- repo: aosc
+  srcname: runtime-network/mvfst
+  binname: mvfst
+  visiblename: mvfst
+  version: 2026.06.22.00
+  origversion: null
+  status: outdated
+  summary: QUIC library in C++
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - libs
 - repo: aur
   srcname: mvfst-git
   binname: mvfst-git
@@ -180,6 +173,13 @@
   version: 2026.10.26.00
   origversion: null
   status: newest
+  summary: QUIC transport protocol implementation
+- repo: homebrew
+  srcname: mvfst
+  visiblename: mvfst
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: QUIC transport protocol implementation
 - repo: liguros_stable
   srcname: dev-cpp/mvfst
