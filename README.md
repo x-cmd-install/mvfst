@@ -14,15 +14,15 @@ x install mvfst
 
 ## Code insight
 
-Total: **215,212** lines of code across **699** files in the top 5 languages.
+Total: **273,000** lines of code across **816** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 163,088 | 13,955 | 21,715 | 294 |
-| CHeader | 30,796 | 10,083 | 7,979 | 262 |
+| Cpp | 163,143 | 13,955 | 21,719 | 294 |
+| Rust | 57,194 | 2,176 | 4,774 | 117 |
+| CHeader | 30,799 | 10,083 | 7,981 | 262 |
 | Python | 11,394 | 1,166 | 1,833 | 41 |
-| CMake | 5,893 | 1,687 | 817 | 101 |
-| CppHeader | 2,818 | 223 | 620 | 1 |
+| CMake | 6,115 | 1,742 | 841 | 102 |
 
 ## Source
 
@@ -31,22 +31,22 @@ Total: **215,212** lines of code across **699** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,675 · **Forks**: 297 · **Open issues**: 195 · **Contributors**: 271
+- **Stars**: 1,675 · **Forks**: 297 · **Open issues**: 193 · **Contributors**: 272
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 17 · **Open PRs**: 16 · **Closed issues**: 165 · **Open issues**: 30 · **Commits**: 10470
+- **Releases**: 0 · **Merged PRs**: 18 · **Open PRs**: 14 · **Closed issues**: 165 · **Open issues**: 28 · **Commits**: 10487
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for mvfst lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:56:07Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:40:49Z._
