@@ -1,15 +1,3 @@
-- repo: aur
-  srcname: mvfst
-  binname: mvfst
-  visiblename: mvfst
-  version: 2025.11.24.00
-  origversion: 2025.11.24.00-1
-  status: outdated
-  summary: An implementation of the QUIC transport protocol
-  maintainers:
-    - envolution@aur
-  licenses:
-    - MIT
 - repo: aosc
   srcname: runtime-network/mvfst
   binname: mvfst
@@ -22,6 +10,18 @@
     - fallback-mnt-aosc@repology
   categories:
     - libs
+- repo: aur
+  srcname: mvfst
+  binname: mvfst
+  visiblename: mvfst
+  version: 2025.11.24.00
+  origversion: 2025.11.24.00-1
+  status: outdated
+  summary: An implementation of the QUIC transport protocol
+  maintainers:
+    - envolution@aur
+  licenses:
+    - MIT
 - repo: aur
   srcname: mvfst-git
   binname: mvfst-git
@@ -118,8 +118,8 @@
   binname: mvfst
   visiblename: net/mvfst
   version: 2026.10.26.00
-  origversion: null
-  status: newest
+  origversion: 2026.10.26.00_1
+  status: outdated
   summary: Implementation of the QUIC transport protocol
   maintainers:
     - yuri@freebsd.org
@@ -170,7 +170,7 @@
 - repo: homebrew
   srcname: mvfst
   visiblename: mvfst
-  version: 2026.10.26.00
+  version: 2026.11.23.00
   origversion: null
   status: newest
   summary: QUIC transport protocol implementation
@@ -257,7 +257,7 @@
   visiblename: mvfst
   version: 2026.10.26.00
   origversion: null
-  status: newest
+  status: outdated
   summary: Implementation of the QUIC transport protocol
   maintainers:
     - barracuda156@github

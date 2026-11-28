@@ -1,0 +1,172 @@
+about:
+  description: "An implementation of the QUIC transport protocol."
+  license: MIT
+  homepage: 
+  head: 372dd94
+  archived: false
+  latestVersion: ""
+  latestRelease: ""
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:38:10Z
+timeline:
+  created: 2018-04-09
+  lastCommit: 2026-11-28
+  lastVersion: 
+  lastRelease: 
+  lastPrerelease: 
+popularity:
+  star: 1675
+  watcher: 69
+  fork: 297
+  release: 0
+  contributor: 273
+  pullRequest: 291
+  issue: 193
+language:
+  C++: 8810532
+  Rust: 5299992
+  Python: 517851
+  CMake: 276136
+  Starlark: 229301
+  Shell: 19166
+  C: 7092
+  Jinja: 4921
+totalBytes: 15164991
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 0
+  mergedPR: 18
+  openPR: 14
+  closedIssue: 165
+  openIssue: 28
+  commit: 10604
+---
+path: /home/runner/.x-repo/github.com/facebook/mvfst
+collectedAt: 2026-11-28T08:38:17Z
+loc:
+  Cpp:
+    code: 164891
+    comments: 14105
+    blanks: 21909
+    files: 296
+  Rust:
+    code: 117249
+    comments: 4402
+    blanks: 9175
+    files: 176
+  CHeader:
+    code: 30919
+    comments: 10121
+    blanks: 8017
+    files: 263
+  Python:
+    code: 11429
+    comments: 1172
+    blanks: 1842
+    files: 42
+  CMake:
+    code: 6132
+    comments: 1742
+    blanks: 842
+    files: 102
+  CppHeader:
+    code: 2818
+    comments: 223
+    blanks: 620
+    files: 1
+  Yaml:
+    code: 562
+    comments: 30
+    blanks: 97
+    files: 6
+  Sh:
+    code: 477
+    comments: 71
+    blanks: 67
+    files: 5
+  Toml:
+    code: 323
+    comments: 11
+    blanks: 59
+    files: 13
+  Jinja2:
+    code: 152
+    comments: 0
+    blanks: 23
+    files: 1
+  Autoconf:
+    code: 65
+    comments: 16
+    blanks: 8
+    files: 2
+  C:
+    code: 49
+    comments: 40
+    blanks: 13
+    files: 1
+  Markdown:
+    code: 0
+    comments: 564
+    blanks: 173
+    files: 10
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 2
+total:
+  code: 335081
+  comments: 43934
+  blanks: 43073
+  files: 920
+---
+
+---

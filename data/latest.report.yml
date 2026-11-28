@@ -2,15 +2,15 @@ about:
   description: "An implementation of the QUIC transport protocol."
   license: MIT
   homepage: 
-  head: 614a072
+  head: 372dd94
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:10:53Z
+  collectedAt: 2026-11-28T08:38:10Z
 timeline:
   created: 2018-04-09
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
@@ -24,17 +24,17 @@ popularity:
   issue: 193
 language:
   C++: 8810532
-  Rust: 4771838
-  Python: 516258
+  Rust: 5299992
+  Python: 517851
   CMake: 276136
   Starlark: 229301
-  Shell: 15392
+  Shell: 19166
   C: 7092
   Jinja: 4921
-totalBytes: 14631470
+totalBytes: 15164991
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -42,7 +42,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -50,7 +50,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
@@ -58,7 +58,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 0
@@ -66,7 +66,7 @@ recent:
     openIssue: 0
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 0
@@ -74,7 +74,7 @@ recent:
     openIssue: 0
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 0
     openPR: 0
@@ -87,10 +87,10 @@ total:
   openPR: 14
   closedIssue: 165
   openIssue: 28
-  commit: 10587
+  commit: 10604
 ---
 path: /home/runner/.x-repo/github.com/facebook/mvfst
-collectedAt: 2026-11-27T09:10:59Z
+collectedAt: 2026-11-28T08:38:17Z
 loc:
   Cpp:
     code: 164891
@@ -98,20 +98,20 @@ loc:
     blanks: 21909
     files: 296
   Rust:
-    code: 105626
-    comments: 3971
-    blanks: 8505
-    files: 172
+    code: 117249
+    comments: 4402
+    blanks: 9175
+    files: 176
   CHeader:
     code: 30919
     comments: 10121
     blanks: 8017
     files: 263
   Python:
-    code: 11394
-    comments: 1166
-    blanks: 1833
-    files: 41
+    code: 11429
+    comments: 1172
+    blanks: 1842
+    files: 42
   CMake:
     code: 6132
     comments: 1742
@@ -128,10 +128,10 @@ loc:
     blanks: 97
     files: 6
   Sh:
-    code: 404
-    comments: 50
-    blanks: 62
-    files: 4
+    code: 477
+    comments: 71
+    blanks: 67
+    files: 5
   Toml:
     code: 323
     comments: 11
@@ -154,8 +154,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 557
-    blanks: 170
+    comments: 564
+    blanks: 173
     files: 10
   Text:
     code: 0
@@ -163,9 +163,9 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 323350
-  comments: 42375
-  blanks: 42376
-  files: 914
+  code: 335081
+  comments: 43934
+  blanks: 43073
+  files: 920
 ---
 
